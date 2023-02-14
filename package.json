@@ -1,0 +1,22 @@
+{
+  "name": "site-sft",
+  "description": "",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d-caldasCaridad/site-SFT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d-caldasCaridad/site-SFT/issues"
+  },
+  "homepage": "https://github.com/d-caldasCaridad/site-SFT/node_modules/reveal.js#index",
+  "dependencies": {
+    "reveal.js": "^4.4.0"
+  }
+}
