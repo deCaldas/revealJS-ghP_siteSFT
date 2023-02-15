@@ -2,14 +2,10 @@
   "name": "site-sft",
   "description": "",
   "version": "1.0.0",
-<<<<<<< HEAD
-  "scripts": {
-=======
   "main": "webpack.config.js",
   "scripts": {
     "dev": "webpack --mode development",
     "build": "webpack --mode production",
->>>>>>> webpack
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -22,14 +18,9 @@
   "bugs": {
     "url": "https://github.com/d-caldasCaridad/site-SFT/issues"
   },
-<<<<<<< HEAD
-  "homepage": "https://github.com/d-caldasCaridad/site-SFT/node_modules/reveal.js#index",
   "dependencies": {
-    "reveal.js": "^4.4.0"
-  }
-=======
-  "dependencies": {
-    "reveal.js": "^4.4.0"
+    "reveal.js": "^4.4.0",
+    "surge": "^0.9.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.12",
@@ -42,6 +33,5 @@
     "webpack": "^5.75.0",
     "webpack-cli": "^5.0.1"
   },
-  "homepage": "https://github.com/d-caldasCaridad/site-SFT#index"
->>>>>>> webpack
+  "homepage": "https://github.com/d-caldasCaridad/site-SFT/dist#index"
 }
